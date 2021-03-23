@@ -17,3 +17,12 @@ In this stage your program should:
 
 ---
 You've reached the end of the program. To check another habitat, please restart the watcher.
+
+## Stage 4
+Your tasks at this point:
+
+1. Your program should repeat the behavior from the previous stage, but now in a loop.
+
+2. Do not forget to include an exit opportunity: inputting `exit` should end the program.
+
+3. When the program is done running, it should print: `See you later!`
